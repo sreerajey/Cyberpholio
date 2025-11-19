@@ -5,62 +5,16 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
 <url>
-  <loc>https://sreerajey.github.io/Cyberpholio/</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
+  <loc>https://sreeraj-sc.github.io/Cyberpholio/</loc>
+  <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#about</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#skills</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#experience</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#education</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#services</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#certifications</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#badges</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#blog</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/#contact</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sreerajey.github.io/Cyberpholio/doc/CyberPholio.pdf</loc>
-  <lastmod>2025-08-14T15:17:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
 
+<url>
+  <loc>https://sreeraj-sc.github.io/Cyberpholio/doc/CyberPholio.pdf</loc>
+  <lastmod>2025-11-19T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
