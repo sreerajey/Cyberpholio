@@ -282,3 +282,27 @@ body {
     max-width: 100%;
   }
 }
+.title-profile-img {
+    width: 250px;              /* Adjust size as needed */
+    height: 250px;             /* Must match width to be a perfect circle */
+    border-radius: 50%;        /* Makes the image round */
+    object-fit: cover;         /* Ensures image doesn't look squashed */
+    
+    /* The Neon Ring Effect */
+    border: 4px solid #39ff14; /* The physical ring (Neon Green) */
+    box-shadow: 
+        0 0 15px #39ff14,      /* Inner glow */
+        0 0 30px #39ff14,      /* Middle glow */
+        0 0 60px #39ff14;      /* Outer glow */
+        
+    transition: all 0.3s ease; /* Smooth transition for hover */
+}
+
+/* Optional: Make it pulse brighter when you hover over it */
+.title-profile-img:hover {
+    box-shadow: 
+        0 0 20px #39ff14, 
+        0 0 50px #39ff14, 
+        0 0 100px #39ff14;
+    transform: scale(1.05);    /* Slight zoom effect */
+}
